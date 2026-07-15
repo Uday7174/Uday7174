@@ -56,8 +56,10 @@
 ## FEATURED PROJECT
 
 ### Cargo Rental System
-- Full Stack MERN application  
-- Vehicle booking system with pricing and admin dashboard  
+- Full-stack car rental platform with online vehicle booking
+- JWT authentication, role-based access, and secure payments
+- Admin dashboard for managing users, vehicles, bookings, and locations
+- Razorpay payment integration  
 
 ### Qriexl (QR Code Platform)
 - Smart QR code generator and scanner  
